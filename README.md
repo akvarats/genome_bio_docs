@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Документация к Геном.Эксперт - Биоинформатика
+
+### Содержание
+
+[Развертывание модуля "Биоинформатика"](deploy/README.md)
+
+[Документация разработчика пайплайнов](dev/READMED.md)
 
 [Command-Line Interface (CLI) к биоинформатике](cli/README.md)
+
 
 You can use the [editor on GitHub](https://github.com/akvarats/genome_bio_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
